@@ -1,0 +1,14 @@
+sentiment-system/
+│
+├── backend/
+│   ├── model/
+│   ├── train.py
+│   └── app.py
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── dataset/
+    └── data.csv
